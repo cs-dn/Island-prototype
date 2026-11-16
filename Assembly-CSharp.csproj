@@ -54,6 +54,7 @@
     <Compile Include="Assets\Character\Script\PlayerControls.cs" />
     <Compile Include="Assets\Character\character Prefab\ReadMe.cs" />
     <Compile Include="Assets\Scripts\Rotator.cs" />
+    <Compile Include="Assets\Character\Script\TopDownCameraFollow.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
   </ItemGroup>
